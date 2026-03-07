@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # =========================================
 # NESTED FOR LOOP PRACTICE PROGRAMS
 #Author: Veena

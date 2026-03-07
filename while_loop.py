@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # =========================================
 # Python While Loop Practice Programs
 # Author: Veena
